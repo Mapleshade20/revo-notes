@@ -12,7 +12,7 @@ src/.vuepress/dist/
 .obsidian/
 .obsidian
 obsidian/
-.desktop.ini
+desktop.ini
 
 .cache/
 .temp/
