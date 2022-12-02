@@ -6,8 +6,8 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "OrgSnow",
+    url: "https://notes.alderwish.tk",
   },
 
   iconAssets: "iconfont",
@@ -73,7 +73,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "A learner/fighter",
         intro: "/intro.html",
       },
 
@@ -81,37 +81,11 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
-
-    /**
-     * Chinese locale config
-     */
-    "/zh/": {
-      // navbar
-      navbar: zhNavbar,
-
-      // sidebar
-      sidebar: zhSidebar,
-
-      footer: "默认页脚",
-
-      displayFooter: true,
-
-      blog: {
-        description: "一个前端开发者",
-        intro: "/zh/intro.html",
-      },
-
-      // page meta
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
-    },
   },
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/tips/encrypt.html": ["1234"],  // MyConfig
     },
   },
 
@@ -230,9 +204,9 @@ export default hopeTheme({
         ],
         shortcuts: [
           {
-            name: "Demo",
-            short_name: "Demo",
-            url: "/demo/",
+            name: "Tips",
+            short_name: "Tips",
+            url: "/tips/",
             icons: [
               {
                 src: "/assets/icon/guide-maskable.png",

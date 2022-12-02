@@ -7,3 +7,12 @@ src/.vuepress/dist/
 .DS_Store
 ._*
 .Trashes
+
+.pdf
+.obsidian/
+.obsidian
+obsidian/
+.desktop.ini
+
+.cache/
+.temp/
