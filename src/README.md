@@ -4,8 +4,8 @@ layout: Blog
 icon: home
 title: Maple's Notes
 heroImage: /logo.svg
-heroText: Maple's Notes
-tagline: Welcome aboard!
+heroText: Welcome aboard! 
+tagline: 这里记录了我处理各种硬件/软件问题的过程，以及我的个人笔记，希望对你有帮助！
 heroFullScreen: true
 projects:
   - icon: project
@@ -14,17 +14,17 @@ projects:
     link: https://me.alderweb.site
 
   - icon: link
-    name: Alderweb Drive
+    name: AlderWeb Drive
     desc: 个人云盘，开放下载
     link: https://alderweb.site
 
   - icon: book
-    name: NO BOOK
+    name: none
     desc: 我没有出版过书
     link: https://link.to.your.book
 
   - icon: article
-    name: NO ARTICLE
+    name: none
     desc: 我的文章消失了
     link: https://link.to.your.article
 
@@ -34,7 +34,7 @@ projects:
     link: https://link.to.your.friend
 
   - icon: /logo.svg
-    name: CUSTOM
+    name: none
     desc: 还没有自定义
     link: https://link.to.your.friend
 

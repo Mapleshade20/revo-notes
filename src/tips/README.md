@@ -1,17 +1,34 @@
 ---
-title: Features Demo
+title: 软硬件问题处理记录库
 index: false
 icon: discover
 category:
   - Guide
 ---
 
-## Catalog
+## 目录
 
-- [Markdown Enhance](markdown.md)
+这些都是我一时想到要写的，但可能还没有写出来。
 
-- [Page Config](page.md)
+1. 硬件和驱动篇
 
-- [Function Disable](disable.md)
+  - [解锁RTX显卡nvenc编码器多线程处理能力]()
 
-- [Encryption Demo](encrypt.md)
+2. 应用篇
+
+  - [环境变量|如何安装命令行应用]()
+  - [如何配置你的直播间? 推流、声音、互动]()
+  - [视频处理的现代化工具——ffmpeg]()
+  - [局域网快传文件/文本——LocalSend]()
+  - [用Everything快速全盘查找文件|正则表达式]()
+  - [如何优雅地下载大文件?]()
+
+3. 网络篇
+
+  - [CFW代理的常见使用问题]()
+  - [和别的电脑建立联系——内网穿透、组网]()
+
+4. Mac/iOS等其他设备
+
+  - [自签iPA的超级工具——TrollStore]()
+  - [流视频解析——Downie]

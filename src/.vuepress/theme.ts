@@ -68,7 +68,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "所有者是 Maple, 见 mapleshade20@gmail.com",
 
       displayFooter: true,
 
