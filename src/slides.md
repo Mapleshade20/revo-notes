@@ -10,13 +10,13 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" -->
 
-## 人物素材分享 - 杨宁
+## 人物素材分享  -  杨宁
 
 <!-- .element: class="r-fit-text" -->
 
 广西柳州市融水苗族自治县安陲乡江门村党总支书记、村委会主任杨宁获评“感动中国2022年度人物”。
 
-![image](http://inews.gtimg.com/newsapp_bt/0/15712541928/1000)
+[image.png](http://inews.gtimg.com/newsapp_bt/0/15712541928/1000)
 
 >  Made by Maple with ❤
 
@@ -24,9 +24,7 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 
-## 如何成为村干部
-
-<!-- .element: class="r-fit-text" -->
+## 她为何成为村干部
 
 江门村山多地少、交通不便，长期处于贫困之中。
 
@@ -40,9 +38,7 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 
-## 如何成为村干部
-
-<!-- .element: class="r-fit-text" -->
+## 她为何成为村干部
 
 留在城里，还是回到小山村，这是一次艰难的抉择。杨宁彻夜难眠，最终做出了回乡的决定：大苗山养育了我，或许我可以为改变家乡的贫困面貌出一份力。
 
@@ -52,19 +48,13 @@ layout: Slide
 
 ## 第一次尝试
 
-<!-- .element: class="r-fit-text" -->
-
 种竹子
-
-<!-- .element: class="r-fit-text" -->
 
 --
 
 <!-- .slide: data-auto-animate -->
 
 ## 第一次尝试
-
-<!-- .element: class="r-fit-text" -->
 
 种竹子
 
@@ -80,8 +70,6 @@ layout: Slide
 
 ## 第一次尝试
 
-<!-- .element: class="r-fit-text" -->
-
 于是，她贷款5万元作为这个项目的启动资金，带领几个村民建起了竹子收购点和加工场所。
 
 然而，竹子生长周期长，由于货源不足，杨宁想靠竹子产业让村民脱贫致富的想法最终宣告破产。
@@ -94,19 +82,13 @@ layout: Slide
 
 ## 第二次尝试
 
-<!-- .element: class="r-fit-text" -->
-
 种辣椒
-
-<!-- .element: class="r-fit-text" -->
 
 --
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 
 ## 第二次尝试
-
-<!-- .element: class="r-fit-text" -->
 
 种辣椒
 
@@ -122,19 +104,13 @@ layout: Slide
 
 ## 第三次尝试
 
-<!-- .element: class="r-fit-text" -->
-
 种葛根
-
-<!-- .element: class="r-fit-text" -->
 
 --
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 
 ## 第三次尝试
-
-<!-- .element: class="r-fit-text" -->
 
 种葛根
 
@@ -154,8 +130,6 @@ layout: Slide
 
 ## 转机
 
-<!-- .element: class="r-fit-text" -->
-
 三次带领村民走上小康路的尝试都失败了。这对她而言，不仅是经济上的打击，更是一场信任的危机。
 
 杨宁回忆她当时仍然是不服输的：“我就想我一定要做成一件事，我觉得我还很年轻，我就想带村民走出一条路子。如果没有人敢去尝试，没有人敢去碰得头破血流，那么这条路子就闯不出来。”
@@ -165,8 +139,6 @@ layout: Slide
 <!-- .slide: data-transition="slide" data-auto-animate -->
 
 ## 转机
-
-<!-- .element: class="r-fit-text" -->
 
 杨宁回忆她当时仍然是不服输的：“我就想我一定要做成一件事，我觉得我还很年轻，我就想带村民走出一条路子。如果没有人敢去尝试，没有人敢去碰得头破血流，那么这条路子就闯不出来。”
 
@@ -182,8 +154,6 @@ layout: Slide
 
 ## 转机
 
-<!-- .element: class="r-fit-text" -->
-
 此时，正值我国脱贫攻坚战全面打响，这给杨宁带来了希望，她凭着不服输的精神又开始了新的探索。
 
 用苗族传统的“稻+鸭+鱼”共作模式种植紫黑香糯
@@ -193,8 +163,6 @@ layout: Slide
 <!-- .slide: data-transition="slide" data-auto-animate -->
 
 ## 转机
-
-<!-- .element: class="r-fit-text" -->
 
 用苗族传统的“稻+鸭+鱼”共作模式种植紫黑香糯
 
@@ -210,16 +178,13 @@ layout: Slide
 
 ## 转机
 
-<!-- .element: class="r-fit-text" -->
-
 最终，全村有60多户贫困户参与了种植紫黑香糯米项目。功夫不负有心人，当年秋天，香糯迎来了大丰收，每亩收入增加了两倍。
 
 看得见的收益，也让杨宁获得了村民的信任。两届六年的大学生村干部任期结束之后，她选择继续留在基层一线工作，并以90%以上的高票当选村委会主任。
 
 <!-- .element: class="fragment fade-in" -->
 
-![image2|300](https://boot-img.xuexi.cn/image/1006/process/0afa3d9da9544201bb9d8872a3107263.jpg)
-<!-- .element: class="fragment fade-in" -->
+[image2.png](https://boot-img.xuexi.cn/image/1006/process/0afa3d9da9544201bb9d8872a3107263.jpg)
 
 ---
 
@@ -227,22 +192,39 @@ layout: Slide
 
 ## 如何运用这个素材
 
-1. 角度一：面对人生万千**殊途**，我们如何去选择？杨宁给出了她的答案：勇担时代重任、心系祖国人民。
+1. 角度一：面对人生万千殊途，我们如何去选择？杨宁给出了她的答案：勇担时代重任、心系祖国人民。
 	- （个人和祖国/时代的关系）论生逢其时、大时代与小幸福
+<!-- .element: class="fragment fade-up" -->
 	- （人生追求与选择）殊途
 <!-- .element: class="fragment fade-up" -->
+
+--
+
+<!-- .slide: data-transition="slide" data-auto-animate -->
+
+## 如何运用这个素材
+
+1. 角度一：面对人生万千殊途，我们如何去选择？杨宁给出了她的答案：勇担时代重任、心系祖国人民。
 
 2. 角度二：积极作为，用汗水浇灌理想的种子
 	- 可为与有为，志气与争气
 <!-- .element: class="fragment fade-up" -->
+
+--
+
+<!-- .slide: data-transition="slide" data-auto-animate -->
+
+## 如何运用这个素材
+
+1. 角度一：面对人生万千殊途，我们如何去选择？杨宁给出了她的答案：勇担时代重任、心系祖国人民。
+
+2. 角度二：积极作为，用汗水浇灌理想的种子
 
 3. 角度三：面对失意与坎坷，永不言败
 	- 在绝境中寻找希望，积极开拓新出路
 <!-- .element: class="fragment fade-up" -->
 
 ---
-
-<!-- .element: class="r-fit-text" -->
 
 ## The End
 
