@@ -22,6 +22,7 @@ category:
   - [局域网快传文件/文本——LocalSend]()
   - [用Everything快速全盘查找文件|正则表达式]()
   - [如何优雅地下载大文件?]()
+  - [VSCode的插件和错误排查]()
 
 3. 网络篇
 
@@ -31,4 +32,4 @@ category:
 4. Mac/iOS等其他设备
 
   - [自签iPA的超级工具——TrollStore]()
-  - [流视频解析——Downie]
+  - [流视频解析——Downie]()
